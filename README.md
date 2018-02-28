@@ -2,4 +2,4 @@ MAGAIL GAIL implementation
 
 Main codes are under gail/
 
-Usage: Copy data into gail/train/, and run gail_gym_nextaction.py
+Usage: Copy data into gail/train/, and run gail_gym.py
