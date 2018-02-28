@@ -4,7 +4,7 @@ import torch.nn.functional as F
 from torch.autograd import Variable
 from utils.math import *
 
-
+# Don't use it now. Unfinished!
 class DiscretePolicy(nn.Module):
     '''
     def __init__(self, state_dim, action_num, hidden_size=(128, 128), activation='tanh'):
